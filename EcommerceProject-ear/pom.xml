@@ -4,12 +4,12 @@
     <parent>
     <artifactId>EcommerceProject</artifactId>
     <groupId>com.nazer</groupId>
-    <version>1.0-SNAPSHOT</version>
+    <version>nazerEcommerce01</version>
   </parent>
 
     <groupId>com.nazer</groupId>
     <artifactId>EcommerceProject-ear</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>nazerEcommerce01</version>
     <packaging>ear</packaging>
 
     <name>Ecommerce</name>
@@ -44,13 +44,13 @@
         <dependency>
             <groupId>com.nazer</groupId>
             <artifactId>EcommerceProject-ejb</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>nazerEcommerce01</version>
             <type>ejb</type>
         </dependency>
         <dependency>
             <groupId>com.nazer</groupId>
             <artifactId>EcommerceProject-web</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>nazerEcommerce01</version>
             <type>war</type>
         </dependency>
     </dependencies>

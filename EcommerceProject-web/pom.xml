@@ -4,12 +4,12 @@
     <parent>
     <artifactId>EcommerceProject</artifactId>
     <groupId>com.nazer</groupId>
-    <version>1.0-SNAPSHOT</version>
+    <version>nazerEcommerce01</version>
   </parent>
 
     <groupId>com.nazer</groupId>
     <artifactId>EcommerceProject-web</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>nazerEcommerce01</version>
     <packaging>war</packaging>
 
     <name>Ecommerce-web</name>

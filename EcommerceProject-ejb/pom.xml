@@ -4,12 +4,12 @@
     <parent>
     <artifactId>EcommerceProject</artifactId>
     <groupId>com.nazer</groupId>
-    <version>1.0-SNAPSHOT</version>
+    <version>nazerEcommerce01</version>
   </parent>
 
     <groupId>com.nazer</groupId>
     <artifactId>EcommerceProject-ejb</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>nazerEcommerce01</version>
     <packaging>ejb</packaging>
 
     <name>Ecommerce-ejb</name>
